@@ -1,3 +1,6 @@
+# Sample Superstore Analysis
+
+
 During my internship at Uneeq Interns. I dove into the "Sample Superstore" dataset to unearth valuable insights and trends. Here’s an overview of what I accomplished:
 
 # Data Cleaning & Transformation:
