@@ -35,7 +35,7 @@ KPIs: Total Profit, Profitability, Avg Profit per Order, Avg Discount per Order
 
 Charts: Filled Map for Profit by State, Gauge for Min, Max, and Avg Profit, Scatter Plot showing the relationship between Total Sales and Total Profit by Sub-Category
 
-![Profit](https://github.com/user-attachments/assets/ade2dbde-9a29-4e2b-84cc-7e028af40806)
+![Profit](https://github.com/user-attachments/assets/8987c0b2-9ff9-49f0-aa52-1b242e3f816a)
 
 ## Details Page:
 
